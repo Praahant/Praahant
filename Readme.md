@@ -18,7 +18,6 @@
 
 - 🎓 Bachelor of Technology in Artificial Intelligence and Data Science from Samrat Ashok Technological Institute, Vidisha (2020-24).
 - 📧 Email: [praahant.pp2424@gmail.com](mailto:praahant.pp2424@gmail.com)
-- 📱 Phone: +91-7999927324
 
 ## Personal Projects
 
