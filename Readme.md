@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/your-username.png" alt="Profile Picture" width="150" height="150">
-</p>
+
 
 <h1 align="center">Hi there! 👋 I'm Prashant Patel</h1>
 
